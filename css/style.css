@@ -167,7 +167,7 @@ a:focus {
 .custom_nav-container {
   z-index: 99999;
   padding: 0;
-  height: 70px;
+  height: 80px;
 }
 
 .custom_nav-container .navbar-toggler {
